@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, soy Helton</h1>
-<h3 align="center">Amante de la tecnología y Data Science</h3>
+<h1 align="center">Hola 👋, soy Jhlirion</h1>
+<h3 align="center">Amante de la tecnología, con experiencia como Data Engineer, Data Science, AI engineer.</h3>
 
 - 💬 Pregúntame sobre **Data Architec, Data Engineer, Data Science**
 
